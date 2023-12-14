@@ -1,4 +1,4 @@
-# Projeto-Ada--Ifood2
+# Projeto-Ada--Ifood (SQL)
 # Desenvolvimento de Sistema de Banco de Dados
 
 ## Apresentação do projeto 
