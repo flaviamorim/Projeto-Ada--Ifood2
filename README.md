@@ -62,7 +62,7 @@ Essas são as tabelas utilizadas:
 
 ## Colaboradores:
 -   **Alan** Alves Rigolon (https://github.com/alanrigolon)
--   **Flávia** Flávia Amorim 
+-   **Flavia**  Amorim 
 -   **Hudson** Cordeiro Pinto (https://github.com/hudsonhcp);
 -   **Jhonatas** Santos Nascimento (https://github.com/JhonGb26);
 -   **Juliana** Gabriela dos Santos (https://github.com/jgsjuliana);
