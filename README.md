@@ -45,9 +45,9 @@ Essas são as tabelas utilizadas:
 
 -**Funções de Agregação (SUM):** Funções que operam em um conjunto de valores e retornam um único valor resumido.
 
--**Inserção de Dados:** Processo de adicionar registros a uma tabela.
+-**Inserção de Dados(INSERT):** Processo de adicionar registros a uma tabela.
 
--**Consulta (SELECT):** Recuperação de dados de uma ou mais tabelas.
+-**Consulta (SELECT):** Consulta os dados de uma ou mais tabelas.
 
 -**JOIN:** Combina linhas de duas ou mais tabelas com base em uma condição especificada.
 
@@ -62,6 +62,7 @@ Essas são as tabelas utilizadas:
 
 ## Colaboradores:
 -   **Alan** Alves Rigolon (https://github.com/alanrigolon)
+-   **Flávia** Flávia Amorim 
 -   **Hudson** Cordeiro Pinto (https://github.com/hudsonhcp);
 -   **Jhonatas** Santos Nascimento (https://github.com/JhonGb26);
 -   **Juliana** Gabriela dos Santos (https://github.com/jgsjuliana);
